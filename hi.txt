@@ -1,0 +1,2 @@
+export GEMINI_API_KEY="AIzaSyC7W-b-s1O9HWnfLydoynXVzX4fWKGB7K0"
+node server.js
